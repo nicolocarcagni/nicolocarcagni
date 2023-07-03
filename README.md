@@ -9,10 +9,7 @@
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolocarcagni&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-
-  ## 💰 Buy me a coffee
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/nikolov1ch)
-  [![Bitcoin](https://img.shields.io/badge/bitcoin-orange?style=for-the-badge&logo=bitcoin&logoColor=white)](https://nikolovich.ml/)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V3MUNNR)
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
